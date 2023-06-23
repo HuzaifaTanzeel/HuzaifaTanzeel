@@ -8,6 +8,10 @@
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/huzaifa.tanzeel.9) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/huzaifa.tanzeel.9) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/huzaifatanzeel) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@hthuzaifatanzeel) 
+[![Leetcode](https://img.shields.io/badge/-@user6969WN-critical?style=flat-square&amp;labelColor=0077B5&amp;logo=leetcode&amp)](https://leetcode.com/huzaifatanzeel/) 
+
+
+<a href="https://leetcode.com/user6969WN/"><img src="https://img.shields.io/badge/-@user6969WN-critical?style=flat-square&amp;labelColor=0077B5&amp;logo=leetcode&amp;link=https://leetcode.com/user6969WN/" alt="leetcode Badge"></a>
 
 
 # 💻 Tech Stack:

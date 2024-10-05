@@ -15,12 +15,14 @@
 
 ---
 
-
 # 🖊️ Explore my collection of Blogs and Articles
 <ul>
   <li><a href='https://medium.com/@hthuzaifatanzeel/understanding-webrtc-a-beginners-guide-to-real-time-communication-on-the-web-2fbe75f7a8e1'>Understanding WebRTC: A Beginner’s Guide to Real-Time Communication on the Web</a></li>
-  </ul>
+  <li><a href='https://medium.com/@hthuzaifatanzeel/kubernetes-basics-components-architecture-5af7345543dc'>Kubernetes Basics: Components & Architecture</a></li>
+  <li><a href='https://medium.com/@hthuzaifatanzeel/minikube-kubectl-local-setup-856497eaa135'>Minikube & Kubectl: Local Setup</a></li>
+</ul>
 <br>
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Huzaifa&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true)<br/>

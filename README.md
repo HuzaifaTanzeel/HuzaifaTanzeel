@@ -1,8 +1,7 @@
  #                                                              Hey 👋, I'm Huzaifa Tanzeel
 
 # 🙋‍♂️ About Me:
-🧑‍💻 Currently, I am exploring WEBRTC and EMR.<br>🤝 I am eagerly seeking opportunities to collaborate on web development projects and organize tech workshops.<br>💡 My current explorations revolve around cybersecurity and HL7, uncovering new insights and honing my expertise.<br>💬 Feel free to ask me about C++, Python, SQL, Nodejs, web development, startups, or WEBRTC. I'm always up for engaging discussions!<br>⚡ In my leisure time, I enjoy sharpening my problem-solving skills on LeetCode. You can check out <a href='https://github.com/HuzaifaTanzeel/LeetCode-x-Huzaifa
-'>My solutions</a> there.<br> 📧 Feel free to reach out to me at hthuzaifatanzeel@gmail.com
+🧑‍💻 Currently, I am exploring Kubernetes.<br>🤝 I am working as an Associate Software Engineer @Sofy.ai, focusing on Java, Microservices, and Docker.<br>💡 I have experience working on Health Tech solutions in my FYP using Java Spring Boot, Spring Data JPA, Hibernate (ORM), and more.<br>💬 Feel free to ask me about Java, Microservices, Docker, Spring Boot, or Kubernetes. I'm always up for engaging discussions!<br>⚡ In my leisure time, I enjoy sharpening my problem-solving skills on LeetCode. You can check out <a href='https://github.com/HuzaifaTanzeel/LeetCode-x-Huzaifa'>My solutions</a> there.<br> 📧 Feel free to reach out to me at hthuzaifatanzeel@gmail.com
 
 ---
 

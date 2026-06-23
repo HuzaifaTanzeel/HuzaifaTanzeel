@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm <a href="https://linkedin.com/in/huzaifatanzeel" target="_blank">Huzaifa Tanzeel</a></h1>
-<h3 align="center">Software Engineer (SDET | AI + Automation | Spring Boot | Appium)</h3>
+<h3 align="center">Software Engineer (AI + Automation | Spring Boot | Appium)</h3>
 
 <img width="1442" height="566" alt="image" src="https://github.com/user-attachments/assets/f21e9a3f-fc63-46c1-9e42-4b25f24e3dfe" />
 

@@ -1,18 +1,17 @@
 <h1 align="center">👋 Hey, I'm <a href="https://linkedin.com/in/huzaifatanzeel" target="_blank">Huzaifa Tanzeel</a></h1>
-<h3 align="center">Software Engineer (AI + Automation | Spring Boot | Appium)</h3>
+<h3 align="center">Backend & AI Engineer · RAG Pipelines · AI Agents · Spring Boot</h3>
 
 <img width="1442" height="566" alt="image" src="https://github.com/user-attachments/assets/f21e9a3f-fc63-46c1-9e42-4b25f24e3dfe" />
-
-
 
 ---
 
 ### 🚀 About Me  
-- 💼 Software Engineer (SDET Focus) at [**Sofy.ai**](https://sofy.ai) — a leader in **Mobile UI Automation Testing**  
-- 🧠 Building **AI-driven UI Validation** and **Visual Matching systems** using **OpenAI + Appium**  
-- ☁️ Experienced in **Java Spring Boot**, **Microservices**, **Docker**, and **Prometheus–Grafana Monitoring**  
-- ⚙️ Passionate about **Automation, Scalable Systems, and AI in QA**  
-- 💬 Always open to discussions on Java, Testing Automation, and AI Prompt Engineering  
+- 💼 **Backend Engineer – AI Systems** at [**Arabic Computer Solutions**](https://arabic-computer.com) — building production AI agent infrastructure  
+- 🧠 Designing **RAG pipelines**, **LLM orchestration**, and **FastAPI backends** for real enterprise-scale AI applications  
+- 🤖 Previously at [**Sofy.ai**](https://sofy.ai) — shipped **autonomous AI testing agents** for **Careem** and **SAP** using the OpenAI Agents SDK  
+- ☁️ Strong in **Java Spring Boot**, **Python**, **Microservices**, **Docker**, and **Prometheus–Grafana** observability  
+- 🎓 BS Computer Science, **FAST NUCES Karachi** (CGPA 3.47/4.0)  
+- 💬 Open to discussions on **AI agents, backend architecture, RAG, and LLM systems**  
 - 📧 Reach me at **hthuzaifatanzeel@gmail.com**
 
 ---
@@ -28,18 +27,22 @@
 ---
 
 ### 💻 Tech Stack  
-#### **Core Development**
+
+#### **AI & Backend**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MSSQL-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Appium](https://img.shields.io/badge/Appium-%2345BAE9.svg?style=for-the-badge&logo=appium&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-000000?style=for-the-badge&logo=semanticweb&logoColor=white)
 
-#### **DevOps & Cloud**
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-%230072C6.svg?style=for-the-badge&logo=azuredevops&logoColor=white)
+#### **Data & Infrastructure**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
@@ -50,7 +53,6 @@
 - [⚙️ Minikube & Kubectl: Local Setup Guide](https://medium.com/@hthuzaifatanzeel/minikube-kubectl-local-setup-856497eaa135)
 
 ---
-
 ### 📊 GitHub Stats  
 
 

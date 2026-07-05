@@ -37,7 +37,6 @@ An end-to-end AI sales platform where guests have live conversations with an AI 
   <a href="https://linkedin.com/in/huzaifatanzeel"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
   <a href="https://leetcode.com/huzaifatanzeel/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white" /></a>
   <a href="https://medium.com/@hthuzaifatanzeel"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" /></a>
-  <a href="https://instagram.com/huzaifa.tanzeel.9"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" /></a>
 </p>
 
 ---

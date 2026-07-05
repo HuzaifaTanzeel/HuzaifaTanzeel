@@ -71,9 +71,9 @@ An end-to-end AI sales platform where guests have live conversations with an AI 
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HuzaifaTanzeel&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HuzaifaTanzeel&show_icons=true&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
  <br> 
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=HuzaifaTanzeel&theme=algolia&hide_border=false" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=HuzaifaTanzeel&theme=algolia&hide_border=false" width="48%" />
 <br> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuzaifaTanzeel&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
 </p>

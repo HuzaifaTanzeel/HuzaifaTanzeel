@@ -67,8 +67,7 @@ An end-to-end AI sales platform where guests have live conversations with an AI 
 - [☸️ Kubernetes Basics: Components & Architecture](https://medium.com/@hthuzaifatanzeel/kubernetes-basics-components-architecture-5af7345543dc)
 - [⚙️ Minikube & Kubectl: Local Setup Guide](https://medium.com/@hthuzaifatanzeel/minikube-kubectl-local-setup-856497eaa135)
 
----
-### 📊 GitHub Stats  
+--- 
 
 ### 📊 GitHub Stats  
 

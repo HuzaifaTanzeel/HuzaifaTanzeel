@@ -1,7 +1,5 @@
 <h1 align="center">👋 Hey, I'm <a href="https://linkedin.com/in/huzaifatanzeel" target="_blank">Huzaifa Tanzeel</a></h1>
-<h3 align="center">Backend & AI Engineer · RAG Pipelines · AI Agents · Spring Boot</h3>
-
-<img width="1442" height="566" alt="image" src="https://github.com/user-attachments/assets/f21e9a3f-fc63-46c1-9e42-4b25f24e3dfe" />
+<h3 align="center">Backend & AI Engineer · Agentic Systems · RAG Pipelines · Spring Boot</h3>
 
 ---
 
@@ -13,6 +11,24 @@
 - 🎓 BS Computer Science, **FAST NUCES Karachi** (CGPA 3.47/4.0)  
 - 💬 Open to discussions on **AI agents, backend architecture, RAG, and LLM systems**  
 - 📧 Reach me at **hthuzaifatanzeel@gmail.com**
+
+---
+
+### 🎥 Featured Project: AI Avatar Video Agent for InterContinental Maldives Resort
+
+An end-to-end AI sales platform where guests have live conversations with an AI avatar guiding them through a 360° virtual resort tour in real time — turning a static walkthrough into an interactive sales experience.
+
+**Built independently** — FastAPI backend, RAG-based knowledge retrieval, PostgreSQL, Docker Compose, real-time agent-to-tour orchestration.
+
+<p align="center">
+  <a href="https://youtu.be/205PdqQaUDs" target="_blank">
+    <img src="https://img.youtube.com/vi/205PdqQaUDs/maxresdefault.jpg" width="600" alt="Watch Demo Video" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://youtu.be/205PdqQaUDs" target="_blank"><b>▶️ Watch Full Demo</b></a>
+</p>
 
 ---
 
@@ -48,13 +64,12 @@
 ---
 
 ### ✍️ Featured Articles
-- [🧠 Understanding WebRTC: A Beginner’s Guide to Real-Time Communication](https://medium.com/@hthuzaifatanzeel/understanding-webrtc-a-beginners-guide-to-real-time-communication-on-the-web-2fbe75f7a8e1)
+- [🧠 Understanding WebRTC: A Beginner's Guide to Real-Time Communication](https://medium.com/@hthuzaifatanzeel/understanding-webrtc-a-beginners-guide-to-real-time-communication-on-the-web-2fbe75f7a8e1)
 - [☸️ Kubernetes Basics: Components & Architecture](https://medium.com/@hthuzaifatanzeel/kubernetes-basics-components-architecture-5af7345543dc)
 - [⚙️ Minikube & Kubectl: Local Setup Guide](https://medium.com/@hthuzaifatanzeel/minikube-kubectl-local-setup-856497eaa135)
 
 ---
 ### 📊 GitHub Stats  
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HuzaifaTanzeel&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
@@ -69,4 +84,3 @@
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=HuzaifaTanzeel&label=Profile%20Views&color=0&icon=5&pretty=true" />
 </p>
-

@@ -21,7 +21,7 @@ An end-to-end AI sales platform where guests have live conversations with an AI 
 **Built independently** — FastAPI backend, RAG-based knowledge retrieval, PostgreSQL, Docker Compose, real-time agent-to-tour orchestration.
 
 <p align="center">
-  <a href="https://youtu.be/205PdqQaUDs" target="_blank">
+  <a href="https://youtu.be/An69D_CMmTM" target="_blank">
     <img src="https://img.youtube.com/vi/205PdqQaUDs/maxresdefault.jpg" width="600" alt="Watch Demo Video" />
   </a>
 </p>

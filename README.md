@@ -27,7 +27,7 @@ An end-to-end AI sales platform where guests have live conversations with an AI 
 </p>
 
 <p align="center">
-  <a href="https://youtu.be/205PdqQaUDs" target="_blank"><b>▶️ Watch Full Demo</b></a>
+  <a href="https://youtu.be/An69D_CMmTM" target="_blank"><b>▶️ Watch Full Demo</b></a>
 </p>
 
 ---

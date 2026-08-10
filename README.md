@@ -10,7 +10,7 @@
 
 ---
 
-## 🎥 Featured Project: AI Avatar Video Agent for InterContinental Maldives Resort
+## 🎥 Featured Project: AI Avatar Video Agent for Maldives Resort
 
 An end-to-end **AI sales platform** where guests can have live conversations with an AI avatar while exploring a **360° virtual resort tour** in real time — transforming a static walkthrough into an interactive sales experience.
 

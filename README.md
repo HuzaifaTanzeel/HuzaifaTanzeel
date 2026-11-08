@@ -18,9 +18,9 @@ An end-to-end **AI sales platform** where guests can have live conversations wit
 
 ### 🎬 Demo
 
-[![AI Avatar Video Agent — InterContinental Maldives Resort](https://img.youtube.com/vi/An69D_CMmTM/maxresdefault.jpg)](https://youtu.be/An69D_CMmTM)
+[![AI Avatar Video Agent — InterContinental Maldives Resort](https://img.youtube.com/vi/s9f5Tx7cSPc/maxresdefault.jpg)](https://youtu.be/s9f5Tx7cSPc)
 
-▶️ **[Watch the Maldives Resort AI Agent Demo](https://youtu.be/An69D_CMmTM)**
+▶️ **[Watch the Maldives Resort AI Agent Demo](https://youtu.be/s9f5Tx7cSPc)**
 
 ---
 

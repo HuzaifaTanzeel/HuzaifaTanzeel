@@ -39,7 +39,9 @@ At [Arabic Computer Solutions](https://arabic-computer.com) my work covered RAG-
 
 An AI avatar that gives a resort tour. A guest talks to a live avatar while moving through a 360° tour of the InterContinental Maldives, and asking for the overwater villa actually takes them there. Built with FastAPI, RAG, PostgreSQL, and Docker Compose.
 
-[![AI Avatar Video Agent for InterContinental Maldives](https://img.youtube.com/vi/s9f5Tx7cSPc/maxresdefault.jpg)](https://youtu.be/s9f5Tx7cSPc)
+[![Watch the InterContinental Maldives demo](assets/maldives-demo.jpg)](https://youtu.be/s9f5Tx7cSPc)
+
+[▶ Watch the demo](https://youtu.be/s9f5Tx7cSPc)
 
 ## Open source
 

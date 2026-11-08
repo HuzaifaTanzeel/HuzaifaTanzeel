@@ -1,8 +1,8 @@
 <h1 align="center">Huzaifa Tanzeel</h1>
 
 <p align="center">
-  <b>AI engineer · Backend engineer · DevOps engineer</b><br/>
-  A polymath who builds AI agents and knows how to keep them running.
+  <b>Foundational engineer at the intersection of AI, backend, and DevOps</b><br/>
+  I like hard problems, and I like finding better ways to solve them.
 </p>
 
 <p align="center">
@@ -13,9 +13,9 @@
 
 ---
 
-Hi, I'm Huzaifa. I build AI agents: agents that test mobile apps on real phones, voice AI that holds a conversation, and RAG systems that answer from a company's own knowledge.
+Hi, I am Huzaifa, a software engineer who has worked across AI, backend, and DevOps in fast-moving startup environments. That mix gave me an end-to-end picture of how a system is built, how it works, and what it takes to keep it running reliably in production, not just the one piece I was assigned. Call it polymath if you like; mostly I just follow the problem wherever it goes.
 
-What makes them work outside a demo is the rest of my background. I'm also a backend and DevOps engineer, so I build the services behind an agent and run the servers it lives on. My best work sits where those three skills meet.
+I am not the engineer who only closes tickets. I want to understand the problem behind the ticket, and I bring ideas and suggestions to the team without waiting to be asked.
 
 ## Sofy.ai
 
@@ -23,7 +23,7 @@ What makes them work outside a demo is the rest of my background. I'm also a bac
 
 Picture a real Android phone, not an emulator, working through a mobile app while nobody touches it. An AI agent reads the screen and decides what to tap. I designed that agent at [Sofy.ai](https://sofy.ai), using the OpenAI Agents SDK and Appium on physical devices. It tests the UI flows of enterprise apps like SAP and Careem.
 
-An agent is only as reliable as what's under it, so I worked on that too. I started on distributed Java and Spring Boot backend services, then took on the DevOps for the device fleet: Ansible deployments across multiple servers, and Prometheus, Loki, and Grafana keeping real Android and iOS hardware healthy and available.
+Elsewhere on the platform, I worked on distributed Java and Spring Boot backend services. On the infrastructure side, I handled DevOps: Ansible deployments across multiple servers, and Prometheus, Loki, and Grafana monitoring the infrastructure and the real Android and iOS devices on the portal, so they stayed stable and available.
 
 <br clear="right"/>
 
@@ -31,7 +31,7 @@ An agent is only as reliable as what's under it, so I worked on that too. I star
 
 <img src="assets/acs-logo.png" alt="Arabic Computer Solutions" width="160" align="right"/>
 
-At [Arabic Computer Solutions](https://arabic-computer.com) I worked as an AI engineer on RAG systems and voice AI capabilities, plus the Linux servers they run on. Dockerized Java and Spring Boot services ship from an on-prem GitLab, and Ansible playbooks roll them out to 10+ VMs at a time.
+At [Arabic Computer Solutions](https://arabic-computer.com) my work covered RAG-based systems and voice AI capabilities. I also handled Linux servers and deployments: dockerized Java and Spring Boot services released from an on-prem GitLab, with Ansible playbooks rolling them out to 10+ VMs at a time.
 
 <br clear="right"/>
 

@@ -53,7 +53,7 @@ I've contributed to [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-l
 
 ## Toolbox
 
-<img src="https://skillicons.dev/icons?i=py,java,c,cpp,fastapi,spring,hibernate,react,nextjs,postgres,mysql,mongodb,redis,kafka,docker,nginx,linux,bash,ansible,gitlab,kubernetes,prometheus,grafana,azure,aws,githubactions,git,github,postman,scikitlearn&perline=10" />
+<img src="https://skillicons.dev/icons?i=py,java,c,cpp,fastapi,spring,hibernate,react,nextjs,postgres,mysql,mongodb,redis,kafka,docker,nginx,linux,bash,ansible,gitlab,kubernetes,prometheus,grafana,azure,aws,githubactions,git,github,postman&perline=10" />
 
 I also write about [WebRTC](https://medium.com/@hthuzaifatanzeel/understanding-webrtc-a-beginners-guide-to-real-time-communication-on-the-web-2fbe75f7a8e1), [Kubernetes basics](https://medium.com/@hthuzaifatanzeel/kubernetes-basics-components-architecture-5af7345543dc), and [a local Minikube setup](https://medium.com/@hthuzaifatanzeel/minikube-kubectl-local-setup-856497eaa135).
 

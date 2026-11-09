@@ -17,6 +17,8 @@ Hi, I am Huzaifa, a software engineer who has worked across AI, backend, and Dev
 
 I am not the engineer who only closes tickets. I want to understand the problem behind the ticket, and I bring ideas and suggestions to the team without waiting to be asked.
 
+<img src="runner.gif" alt="Runner" />
+
 ## Sofy.ai
 
 <img src="assets/sofy-logo.png" alt="Sofy.ai" width="130" align="right"/>
